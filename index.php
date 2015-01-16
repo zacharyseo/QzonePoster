@@ -66,7 +66,7 @@ echo <<<HTML
 <div class="container">
 <div class="header">
 <h3 class="text-muted" align="container">说说</h3></div><hr>
-<form action="qzone.php" class="form-horizontal" method="post" enctype="multipart/form-data">
+<form action="index.php" class="form-horizontal" method="post" enctype="multipart/form-data">
 <div class="form-group">
     <label for="firstname" class="col-sm-2 control-label">QQ</label>
     <div class="col-sm-10">
