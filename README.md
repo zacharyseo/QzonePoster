@@ -35,3 +35,7 @@ http://wap.wnyr.pw/qzone.php
 ----------------
 
 http://www.anotherhome.net/1699
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/DIYgod/qzoneposter/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
